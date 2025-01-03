@@ -1,3 +1,7 @@
+* {
+    background-color: rgba(246, 193, 114, 0.917);
+}
+
 .list-element {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 0.1cap;
@@ -17,6 +21,8 @@
 .fancy {
     opacity: 0.95;
     border-radius: 15px;
+    border: 0.4cap solid black;
+    margin: 15px 100px;
 }
 
 .subsection {
@@ -31,4 +37,21 @@ h2.subsection {
 
 h4.subsection {
     font-size: 1.1em;
+}
+
+.heading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.05cap;
+    text-align: center;
+}
+
+.hp {
+    text-align: center;
+    font-size: 5rem;
+    line-height: 10rem;
+}
+
+h4.hp {
+    font-size: 30px;
 }
