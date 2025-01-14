@@ -55,3 +55,8 @@ h4.subsection {
 h4.hp {
     font-size: 30px;
 }
+
+.index-img {
+    display: block;
+    margin: 0 auto;
+}
