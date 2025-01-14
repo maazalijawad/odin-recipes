@@ -46,6 +46,11 @@ h4.subsection {
     font-weight: 600;
     letter-spacing: 0.05cap;
     text-align: center;
+    border-left: 10px double black;
+    border-right: 10px double black;
+    border-bottom: 10px double black;
+    border-radius: 150px;
+    box-shadow: inset 10px 10px 10px 100px rgba(46, 176, 220,0.7); /* Simulates a colored border */
 }
 
 .hp {
