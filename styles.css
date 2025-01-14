@@ -61,4 +61,6 @@ h4.hp {
 .index-img {
     display: block;
     margin: 0 auto;
+    border: 10px double black;
+    border-radius: 20px;
 }
